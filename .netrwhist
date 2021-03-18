@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/Users/ks/workspace/rust/rtail/src'
+let g:netrw_dirhist_9='/Users/ks/workspace/rust/rtail'
+let g:netrw_dirhist_8='/Users/ks/workspace/rust/rtail/src'
+let g:netrw_dirhist_7='/Users/ks/workspace/rust/rtail'
+let g:netrw_dirhist_6='/Users/ks/workspace/rust/rtail/src'
+let g:netrw_dirhist_5='/Users/ks/workspace/rust/rtail'
+let g:netrw_dirhist_4='/Users/ks/workspace/rust/rtail/src'
+let g:netrw_dirhist_3='/Users/ks/workspace/rust/rtail'
+let g:netrw_dirhist_2='/Users/ks/workspace/rust/rtail/src'
+let g:netrw_dirhist_1='/Users/ks/workspace/rust/rtail'

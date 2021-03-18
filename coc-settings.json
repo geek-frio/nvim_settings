@@ -1,0 +1,5 @@
+{
+	"rust-analyzer.hoverActions.enable": true,
+	"rust-analyzer.hoverActions.linksInHover": true
+}
+
